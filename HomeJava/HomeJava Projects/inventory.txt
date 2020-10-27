@@ -1,0 +1,37 @@
+3
+Ranjan
+ranjan loca
+ranajan
+true
+102
+10/10/2010
+cpr
+special
+hhtp hum
+Ravi
+ravi loca
+ravi sn
+false
+100
+10/12/2020
+siwan
+nothing special
+C:\Users\RAVI\Desktop\forNQT.jpg
+ranjan
+ranjan loca
+ranajan
+true
+102
+10/10/2010
+cpr
+special
+hhtp hum
+8
+ravi ranjan
+ranjan yadav
+yadav ravi
+what is this
+me is this
+ravi loca
+ranjan loca
+
